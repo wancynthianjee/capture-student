@@ -2,7 +2,7 @@ fun main(arg: Array<String>) {
  var fullName = "Peris Wangui"
  println(fullName)
 
- var age = 17
+ var age:Byte = 17
  println(age)
 
  var phoneNumber = "0713247749"
